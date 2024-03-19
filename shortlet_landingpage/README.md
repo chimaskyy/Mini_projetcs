@@ -1,1 +1,1 @@
-A static webpage where for booking shotlet apartment in Lagos.
+A static webpage for booking shotlet apartment in Lagos.
